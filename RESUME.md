@@ -2,8 +2,7 @@
 
 ## Education
 
-The Derryfield School
-Graduation: May 2025
-
-Northeastern University
-Expected Graduation: May 2029
+| Institution | Graduation | Degree |
+| - | - | - |
+| The Derryfield School | May 2025 | High School |
+| Northeastern University | May 2029 (expected) | Comp. Sci. Major, Math Minor |
